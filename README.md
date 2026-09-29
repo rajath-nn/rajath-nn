@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>RAJATH N N</b>, a passionate <b>Computer Science and Engineering</b> student at Atria Institute of Technology (AIT), Bengaluru based in Bengaluru, Karnataka, India.<br /><br />
+  Hey! I'm <b>RAJATH N N</b>, a passionate <b>Computer Science and Engineering</b> student at Atria Institute of Technology (AIT), based in Bengaluru, Karnataka, India.<br /><br />
   I am interested in <b>software development, web development, IoT, and emerging technologies</b>. I enjoy building practical projects, learning new technologies, and solving real-world problems through technology. I am continuously improving my programming and development skills while working on academic and personal projects.
 </p>
 
