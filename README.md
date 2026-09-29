@@ -43,15 +43,11 @@
 <h2 align="center">🔹 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="assets/banner.svg" width="100%" style="max-width: 850px;" alt="Turning Ideas into Impact - One Line of Code at a Time" />
 </p>
 
 <p align="center">
-  <img src="assets/developer.gif" width="380" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-</p>
-
-<p align="center">
-  Hey! I'm <b>RAJATH N N</b>, a passionate <b>Computer Science and Engineering student</b> at <b>Atria Institute of Technology (AIT), Bengaluru</b> based in <b>Bengaluru, Karnataka, India</b>.<br /><br />
+  Hey! I'm <b>RAJATH N N</b>, a passionate <b>Computer Science and Engineering</b> student at Atria Institute of Technology (AIT), Bengaluru based in Bengaluru, Karnataka, India.<br /><br />
   I am interested in <b>software development, web development, IoT, and emerging technologies</b>. I enjoy building practical projects, learning new technologies, and solving real-world problems through technology. I am continuously improving my programming and development skills while working on academic and personal projects.
 </p>
 
@@ -66,7 +62,7 @@
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> C, C++, Python, Java, JavaScript, SQL, Web Development &amp; IoT.<br />
+  💭 <b>Let's Discuss:</b> C, C++, Python, Java, JavaScript, SQL, Web Development &amp; IoT.<br />
   🎯 <b>Career Goal:</b> <i>"To become a skilled software engineer and build innovative, scalable, and user-focused technology solutions."</i>
 </p>
 
@@ -79,16 +75,6 @@
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
   <p><b>Full-Stack Web &amp; DSA</b><br /><sub>React.js, Node.js, SQL &amp; Algorithms</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>📱 Social Connect</h4>
-  <p><a href="https://www.instagram.com/rajath_nn" target="_blank"><b>@rajath_nn</b></a><br /><sub>Follow on Instagram</sub></p>
-</td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration &amp; Opportunities</h4>
-  <p><b>Software, Web &amp; IoT</b><br /><sub>Open to internship opportunities &amp; projects</sub></p>
 </td>
 </tr>
 </table>
