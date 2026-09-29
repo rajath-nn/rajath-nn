@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="assets/developer.gif" width="380" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
