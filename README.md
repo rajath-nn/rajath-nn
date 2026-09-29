@@ -43,7 +43,11 @@
 <h2 align="center">🔹 About Me</h2>
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" style="max-width: 850px;" alt="Turning Ideas into Impact - One Line of Code at a Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=00D2FF&center=true&vCenter=true&multiline=false&width=700&height=35&lines=Code+with+Purpose.+Build+with+Precision.+Become+Unstoppable" width="100%" style="max-width: 700px;" alt="Typing Quote" />
+</p>
+
+<p align="center">
+  <img src="assets/developer.gif" width="380" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
