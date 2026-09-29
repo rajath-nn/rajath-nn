@@ -280,7 +280,7 @@
 </td>
 <td align="center" width="200" style="padding: 16px;">
   <a href="https://leetcode.com/u/Rajath_nn/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="55" height="55" alt="LeetCode" />
+    <img src="assets/leetcode.svg" width="55" height="55" alt="LeetCode" />
     <br /><br />
     <img src="https://img.shields.io/badge/LeetCode-Profile-0070F3?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
