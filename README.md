@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" width="160" height="160" style="border-radius: 50%; max-width: 100%; box-shadow: 0 0 25px rgba(0, 210, 255, 0.4);" alt="Rajath N N (RNN) Logo" />
-</p>
-
-<p align="center">
   <a href="https://github.com/rajath-nn">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Rajath%20N%20N%20%F0%9F%91%8B;Computer%20Science%20Engineering%20Student%20%F0%9F%8E%93;Aspiring%20Software%20Engineer%20%26%20Developer%20%F0%9F%92%BB;Full-Stack%20Web%20%26%20IoT%20Enthusiast%20%F0%9F%9A%80;Solving%20real-world%20problems%20with%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
